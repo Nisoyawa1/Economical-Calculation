@@ -11,7 +11,7 @@ Gas_injection_Price=6000
 workover_cost=300000
 
 
-banyaknya_hari = st.number_input('Banyaknya hari')
+banyaknya_hari = st.number_input('Numbers of day')
 st.write('The current number is ', banyaknya_hari)
 banyaknya_hari=int(banyaknya_hari)
 

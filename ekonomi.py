@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.title('Economic Calculation')
+st.caption('by Nisoyawa')
 st.header('Input the data value')
 
 
